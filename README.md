@@ -1,5 +1,3 @@
-# Data-Cleaning-Practice
-Basic Cleaning
+# Practice
 
-
-By downloading the dataset, I have changed various values myself, for my practice.
+Learning, practicing, failing, learning, practicing.

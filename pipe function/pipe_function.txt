@@ -1,0 +1,1 @@
+Pipe is a Pandas function used to execute multiple functions by passing the result of the previous function to the next one in the chain. It is a good approach to make the code cleaner, and more readable.
